@@ -1,4 +1,4 @@
-### Hi there 👋
+![Nikko](https://user-images.githubusercontent.com/6322484/87270599-91398700-c50b-11ea-83b1-2599113f2b81.png)
 
 <!--
 **valerauko/valerauko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
